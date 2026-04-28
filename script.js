@@ -12,7 +12,7 @@
 const WHATSAPP = '5531986149886';
 
 // Link do Instagram
-const INSTAGRAM = 'https://instagram.com/patinhasparaadocao1';
+const INSTAGRAM = 'https://instagram.com/patinhas_para_adocao';
 
 // E-mail de contato
 const EMAIL = 'patinhasparaadocao1@gmail.com';
@@ -260,7 +260,7 @@ function renderizarContato() {
   if (actionsEl) {
     actionsEl.innerHTML = `
       <a
-        href="${whatsappUrl(WHATSAPP, 'Olá! Gostaria de saber mais sobre a Patinhas para Adoção.')}"
+        href="${whatsappUrl(WHATSAPP, 'Olá! Gostaria de saber mais sobre a ONG Patinhas para Adoção.')}"
         class="contact__btn contact__btn--whatsapp"
         target="_blank"
         rel="noopener noreferrer"
@@ -274,7 +274,7 @@ function renderizarContato() {
         class="contact__btn contact__btn--instagram"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Visitar o Instagram da Patinhas para Adoção"
+        aria-label="Visitar o Instagram da ONG Patinhas para Adoção"
       >
         <span class="contact__btn-icon" aria-hidden="true">📸</span>
         Instagram
@@ -282,7 +282,7 @@ function renderizarContato() {
       <a
         href="mailto:${EMAIL}"
         class="contact__btn contact__btn--email"
-        aria-label="Enviar e-mail para a Patinhas para Adoção"
+        aria-label="Enviar e-mail para a ONG Patinhas para Adoção"
       >
         <span class="contact__btn-icon" aria-hidden="true">✉️</span>
         E-mail
@@ -295,7 +295,7 @@ function renderizarContato() {
     footerSocial.innerHTML = `
       <div class="footer__social-links">
         <a
-          href="${whatsappUrl(WHATSAPP, 'Olá! Gostaria de saber mais sobre a Patinhas para Adoção.')}"
+          href="${whatsappUrl(WHATSAPP, 'Olá! Gostaria de saber mais sobre a ONG Patinhas para Adoção.')}"
           class="footer__social-link"
           target="_blank"
           rel="noopener noreferrer"

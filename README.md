@@ -63,7 +63,7 @@ Abra `script.js` e edite as constantes no início do arquivo:
 
 ```js
 const WHATSAPP = '5531986149886';        // só números, com código do país
-const INSTAGRAM = 'https://instagram.com/patinhasparaadocao';
+const INSTAGRAM = 'https://instagram.com/patinhas_para_adocao';
 const EMAIL = 'patinhasparaadocao1@gmail.com';
 ```
 
