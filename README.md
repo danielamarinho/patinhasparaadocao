@@ -62,9 +62,9 @@ Para **remover** um animal, apague o bloco correspondente.
 Abra `script.js` e edite as constantes no início do arquivo:
 
 ```js
-const WHATSAPP = '5531999999999';        // só números, com código do país
+const WHATSAPP = '5531986149886';        // só números, com código do país
 const INSTAGRAM = 'https://instagram.com/patinhasparaadocao';
-const EMAIL = 'contato@patinhasparaadocao.org';
+const EMAIL = 'patinhasparaadocao1@gmail.com';
 ```
 
 ---

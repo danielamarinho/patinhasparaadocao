@@ -9,16 +9,16 @@
 /* ==================== CONFIGURAÇÕES ==================== */
 
 // Número do WhatsApp (somente números, com código do país e DDD)
-const WHATSAPP = '5531999999999';
+const WHATSAPP = '5531986149886';
 
 // Link do Instagram
-const INSTAGRAM = 'https://instagram.com/patinhasparaadocao';
+const INSTAGRAM = 'https://instagram.com/patinhasparaadocao1';
 
 // E-mail de contato
-const EMAIL = 'contato@patinhasparaadocao.org';
+const EMAIL = 'patinhasparaadocao1@gmail.com';
 
 // Cidade e estado
-const CIDADE = 'Belo Horizonte, MG';
+const CIDADE = 'Lagoa Santa, MG';
 
 /* ==================== ANIMAIS ==================== */
 /*
@@ -97,37 +97,37 @@ const formasDeAjuda = [
     icone: '🍖',
     titulo: 'Doar ração ou itens de cuidado',
     descricao: 'Sua doação ajuda nos cuidados diários com os animais acolhidos.',
-    mensagem: 'Olá! Gostaria de saber como posso fazer uma doação de ração ou itens de cuidado para a Patinhas para Adoção.',
+    mensagem: 'Olá! Gostaria de saber como posso fazer uma doação de ração ou itens de cuidado para a ONG Patinhas para Adoção.',
   },
   {
     icone: '💛',
     titulo: 'Apadrinhar um animal',
     descricao: 'Contribua mensalmente com alimentação, vacinas, exames ou tratamentos.',
-    mensagem: 'Olá! Tenho interesse em apadrinhar um animal da Patinhas para Adoção. Como funciona?',
+    mensagem: 'Olá! Tenho interesse em apadrinhar um animal da ONG Patinhas para Adoção. Como funciona?',
   },
   {
     icone: '🏠',
     titulo: 'Ser lar temporário',
     descricao: 'Ofereça abrigo e carinho enquanto o pet espera pela adoção definitiva.',
-    mensagem: 'Olá! Gostaria de ser lar temporário para um animal da Patinhas para Adoção. Como posso ajudar?',
+    mensagem: 'Olá! Gostaria de ser lar temporário para um animal da ONG Patinhas para Adoção. Como posso ajudar?',
   },
   {
     icone: '📲',
     titulo: 'Divulgar os animais',
     descricao: 'Compartilhar também salva vidas e ajuda cada pet a encontrar uma família.',
-    mensagem: 'Olá! Quero ajudar divulgando os animais da Patinhas para Adoção. Como posso fazer isso da melhor forma?',
+    mensagem: 'Olá! Quero ajudar divulgando os animais da ONG Patinhas para Adoção. Como posso fazer isso da melhor forma?',
   },
   {
     icone: '🤝',
     titulo: 'Ser voluntário',
     descricao: 'Ajude em feiras, transporte, fotos, redes sociais ou cuidados.',
-    mensagem: 'Olá! Tenho interesse em ser voluntário na Patinhas para Adoção. Como posso contribuir?',
+    mensagem: 'Olá! Tenho interesse em ser voluntário na ONG Patinhas para Adoção. Como posso contribuir?',
   },
   {
     icone: '🩺',
     titulo: 'Contribuir com custos veterinários',
     descricao: 'Tratamentos, consultas e emergências são parte importante do resgate.',
-    mensagem: 'Olá! Gostaria de contribuir com custos veterinários para os animais da Patinhas para Adoção.',
+    mensagem: 'Olá! Gostaria de contribuir com custos veterinários para os animais da ONG Patinhas para Adoção.',
   },
 ];
 
